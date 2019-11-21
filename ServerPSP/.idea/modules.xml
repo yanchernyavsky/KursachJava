@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ClientPSP/ClientPSP.iml" filepath="$PROJECT_DIR$/../ClientPSP/ClientPSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerPSP.iml" filepath="$PROJECT_DIR$/ServerPSP.iml" />
+    </modules>
+  </component>
+</project>

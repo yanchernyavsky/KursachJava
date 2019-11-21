@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GUI.MenuController">
+    <children>
+        <AnchorPane layoutX="-5.0" layoutY="84.0" prefHeight="418.0" prefWidth="606.0" style="-fx-background-color: #880000;">
+            <children>
+                <Button fx:id="ProductButton" layoutX="388.0" layoutY="103.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Товар" textFill="WHITE">
+                    <font>
+                        <Font name="Times New Roman" size="22.0" />
+                    </font>
+                </Button>
+                <Label layoutX="151.0" layoutY="34.0" prefHeight="52.0" prefWidth="307.0" text="Добро пожаловать" textFill="WHITE">
+                    <font>
+                        <Font name="Times New Roman" size="34.0" />
+                    </font>
+                </Label>
+            <ImageView fitHeight="215.0" fitWidth="205.0" layoutX="105.0" layoutY="134.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Assets/computer.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="ExitButton" layoutX="388.0" layoutY="347.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Выход" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="OrderButton" layoutX="388.0" layoutY="203.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Заказы" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="BackButton" layoutX="388.0" layoutY="299.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Назад" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="ProviderButton" layoutX="388.0" layoutY="154.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Поставщики" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="22.0" />
+               </font>
+            </Button>
+            <Button fx:id="ClientButton" layoutX="388.0" layoutY="251.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Покупатели" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="22.0" />
+               </font>
+            </Button>
+            </children></AnchorPane>
+        <Label layoutX="67.0" layoutY="26.0" text="Учёт товаров магазина электротоваров" textFill="WHITE">
+            <font>
+                <Font name="Times New Roman" size="28.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

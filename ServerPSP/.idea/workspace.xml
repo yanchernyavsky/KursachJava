@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5625560-156a-4b02-953f-32410536277b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ServerTCP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-809">
+              <caret line="92" column="32" lean-forward="true" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9335#9345#0" expanded="true" />
+                <element signature="e#10380#10390#0" expanded="true" />
+                <element signature="e#11246#11255#0" expanded="true" />
+                <element signature="e#12204#12212#0" expanded="true" />
+                <element signature="e#13055#13062#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ClientPSP/src/sample/Tables/Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Const.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="41" column="52" lean-forward="false" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+                <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+                <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+                <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+                <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+                <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+                <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+                <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+                <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+                <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+                <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+                <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+                <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+                <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+                <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+                <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start</find>
+      <find>us</find>
+      <find>av</find>
+      <find>Category</find>
+      <find>Provider</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>object</replace>
+      <replace>Category</replace>
+      <replace>product</replace>
+      <replace>Product</replace>
+      <replace>client</replace>
+      <replace>Client</replace>
+      <replace>order</replace>
+      <replace>Order</replace>
+      <replace>category</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/labapp/Configs.java" />
+        <option value="$PROJECT_DIR$/src/labapp/User.java" />
+        <option value="$PROJECT_DIR$/src/labapp/MonoThreadClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/labapp/MultiThreadServer.java" />
+        <option value="$PROJECT_DIR$/src/labapp/Main.java" />
+        <option value="$PROJECT_DIR$/src/labapp/Server.java" />
+        <option value="$PROJECT_DIR$/../ClientPSP/src/sample/Service.java" />
+        <option value="$PROJECT_DIR$/../ClientPSP/src/sample/Tables/Category.java" />
+        <option value="$PROJECT_DIR$/src/labapp/ServerTCP.java" />
+        <option value="$PROJECT_DIR$/src/labapp/Const.java" />
+        <option value="$PROJECT_DIR$/src/labapp/DatabaseHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="685" />
+    <option name="y" value="83" />
+    <option name="width" value="869" />
+    <option name="height" value="544" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Syntactic SimplificationScala</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ServerPSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerPSP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerPSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerPSP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerPSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerPSP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="labapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClientPSP" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerTCP">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="labapp.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ServerPSP" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="MultiThreadServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="labapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="labapp.MultiThreadServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ServerPSP" />
+      <envs />
+    </configuration>
+    <configuration name="ServerTCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="labapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="labapp.ServerTCP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ServerPSP" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MultiThreadServer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ServerTCP" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ServerTCP" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MultiThreadServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5625560-156a-4b02-953f-32410536277b" name="Default" comment="" />
+      <created>1542549743669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542549743669</updated>
+      <workItem from="1542549753193" duration="23000" />
+      <workItem from="1542549820729" duration="18000" />
+      <workItem from="1542550509085" duration="6089000" />
+      <workItem from="1542564456470" duration="384000" />
+      <workItem from="1542825268192" duration="229000" />
+      <workItem from="1542900040585" duration="508000" />
+      <workItem from="1543128133702" duration="18106000" />
+      <workItem from="1543317032639" duration="495000" />
+      <workItem from="1543318452151" duration="1209000" />
+      <workItem from="1543417041107" duration="31346000" />
+      <workItem from="1543518769200" duration="1335000" />
+      <workItem from="1543573371633" duration="3025000" />
+      <workItem from="1543591654366" duration="3978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66745000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.49121523" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2136076" sideWeight="0.5204978" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2136076" sideWeight="0.4795022" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/MonoThreadClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/MonoThreadClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/MonoThreadClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/MonoThreadClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/MonoThreadClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/labapp/User.java" />
+    <entry file="jar://$PROJECT_DIR$/../../../../Java/jdk1.8.0/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="380" column="0" lean-forward="false" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Java/jdk1.8.0/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="263" column="0" lean-forward="false" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ClientPSP/src/sample/GUI/ProviderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="81" column="31" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ClientPSP/src/sample/Tables/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ClientPSP/sample/Tables/Provider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ClientPSP/src/sample/Tables/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ClientPSP/src/sample/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="41" column="52" lean-forward="false" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/Configs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/ServerTCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <caret line="92" column="32" lean-forward="true" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9335#9345#0" expanded="true" />
+            <element signature="e#10380#10390#0" expanded="true" />
+            <element signature="e#11246#11255#0" expanded="true" />
+            <element signature="e#12204#12212#0" expanded="true" />
+            <element signature="e#13055#13062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labapp/DatabaseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543604066444" expanded="true" signature="965:1136" ph="INSERT INTO missingValue... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1777" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1808" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1875" ph="INSERT INTO users... " />
+            <marker date="1543604066444" expanded="true" signature="1662:1876" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2587" ph="UPDATE providerSET... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2675" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2714" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2738" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2760" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2776" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="2544:2808" ph="UPDATE providerSETidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3457" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3487" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3494" ph="DELETE FROM providerWHEREmissingValue... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3504" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3525" ph="DELETE FROM providerWHEREidprovider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3526" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3445:3530" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="3899:4128" ph="INSERT INTO category... " />
+            <marker date="1543604066444" expanded="true" signature="4753:5042" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="5695:5778" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6322" ph="INSERT INTO product... " />
+            <marker date="1543604066444" expanded="true" signature="6154:6444" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="7165:7523" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="8265:8344" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="8711:8956" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="9604:9888" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="10557:10634" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="10998:11290" ph="INSERT INTO provider... " />
+            <marker date="1543604066444" expanded="true" signature="11990:12347" ph="UPDATE provider... " />
+            <marker date="1543604066444" expanded="true" signature="13068:13143" ph="DELETE FROM provider... " />
+            <marker date="1543604066444" expanded="true" signature="13543:13666" ph="SELECT * FRO... missingValue" />
+            <marker date="1543604066444" expanded="true" signature="14200:14214" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ClientPSP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

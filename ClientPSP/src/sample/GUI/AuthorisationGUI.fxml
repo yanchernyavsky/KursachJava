@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GUI.AuthorizationController">
+   <children>
+      <AnchorPane layoutX="-5.0" layoutY="84.0" prefHeight="418.0" prefWidth="606.0" style="-fx-background-color: #880000;">
+         <children>
+            <Button fx:id="loginSighUpButton" layoutX="219.0" layoutY="316.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="177.0" style="-fx-background-color: #669999;" text="Зарегистрироваться" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="authSighInButton" layoutX="219.0" layoutY="258.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="177.0" style="-fx-background-color: #669999;" text="Вход" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="22.0" />
+               </font>
+            </Button>
+            <TextField fx:id="login_field" layoutX="168.0" layoutY="126.0" prefHeight="38.0" prefWidth="274.0" promptText="Логин" />
+            <PasswordField fx:id="password_field" layoutX="167.0" layoutY="181.0" prefHeight="38.0" prefWidth="274.0" promptText="Пароль" />
+            <Label layoutX="206.0" layoutY="34.0" prefHeight="52.0" prefWidth="199.0" text="Авторизация" textFill="WHITE">
+               <font>
+                  <Font name="Times New Roman" size="34.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+      <Label layoutX="67.0" layoutY="26.0" text="Учёт товаров магазина электротоваров" textFill="WHITE">
+         <font>
+            <Font name="Times New Roman" size="28.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

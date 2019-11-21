@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="499.0" prefWidth="596.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GUI.CategoryController">
+    <children>
+        <Label layoutX="51.0" layoutY="14.0" text="Учёт товаров магазина электротоваров" textFill="WHITE">
+            <font>
+                <Font name="Times New Roman" size="28.0" />
+            </font>
+        </Label>
+        <TabPane layoutX="-4.0" layoutY="57.0" prefHeight="442.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE">
+            <tabs>
+                <Tab text="Категория">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                            <children>
+                                <AnchorPane prefHeight="418.0" prefWidth="608.0" style="-fx-background-color: #880000;">
+                                    <children>
+                                        <Label layoutX="225.0" layoutY="14.0" prefHeight="52.0" prefWidth="158.0" text="Категория" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="34.0" />
+                                            </font>
+                                        </Label>
+                                        <Button fx:id="BackButton" layoutX="388.0" layoutY="347.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Назад" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="22.0" />
+                                            </font>
+                                        </Button>
+                                        <TableView fx:id="CategoryTable" layoutX="39.0" layoutY="66.0" prefHeight="264.0" prefWidth="534.0" AnchorPane.topAnchor="66.0">
+                                            <columns>
+                                                <TableColumn fx:id="CategoryName" prefWidth="134.0" text="Имя категории" />
+                                                <TableColumn fx:id="CategoryProductNumber" prefWidth="113.0" text="Количество товара" />
+                                                <TableColumn fx:id="CategoryDescription" prefWidth="191.0" text="Описание" />
+                                                <TableColumn fx:id="CategoryAvailability" prefWidth="90.0" text="Доступность" />
+                                            </columns>
+                                        </TableView>
+                                    </children>
+                                </AnchorPane>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab text="Добавление">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                            <children>
+                                <AnchorPane prefHeight="418.0" prefWidth="608.0" style="-fx-background-color: #880000;">
+                                    <children>
+                                        <Label layoutX="206.0" layoutY="14.0" prefHeight="52.0" prefWidth="201.0" text="Добавление" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="34.0" />
+                                            </font>
+                                        </Label>
+                                        <Button fx:id="AddButton" layoutX="206.0" layoutY="345.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Добавить" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="22.0" />
+                                            </font>
+                                        </Button>
+                                        <TextField fx:id="NameAdd" layoutX="186.0" layoutY="91.0" prefHeight="31.0" prefWidth="211.0" promptText="Имя категории" />
+                                        <TextField fx:id="ProductNumberAdd" layoutX="186.0" layoutY="136.0" prefHeight="31.0" prefWidth="211.0" promptText="Количество товаров в категории" />
+                                        <TextField fx:id="DescriptionAdd" layoutX="186.0" layoutY="186.0" prefHeight="31.0" prefWidth="211.0" promptText="Описание" />
+                                        <TextField fx:id="AvailabilityAdd" layoutX="186.0" layoutY="238.0" prefHeight="31.0" prefWidth="211.0" promptText="Доступность" />
+                                    </children>
+                                </AnchorPane>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab text="Изменение">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                            <children>
+                                <AnchorPane prefHeight="418.0" prefWidth="608.0" style="-fx-background-color: #880000;">
+                                    <children>
+                                        <Label layoutX="206.0" layoutY="14.0" prefHeight="52.0" prefWidth="201.0" text="Изменение" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="34.0" />
+                                            </font>
+                                        </Label>
+                                        <Button fx:id="UpdateButton" layoutX="206.0" layoutY="345.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Изменить" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="22.0" />
+                                            </font>
+                                        </Button>
+                                        <TextField fx:id="NameUpdate" layoutX="186.0" layoutY="91.0" prefHeight="31.0" prefWidth="211.0" promptText="Имя категории" />
+                                        <TextField fx:id="ProductNumberUpdate" layoutX="186.0" layoutY="136.0" prefHeight="31.0" prefWidth="211.0" promptText="Количество товаров в категории" />
+                                        <TextField fx:id="DescriptionUpdate" layoutX="186.0" layoutY="186.0" prefHeight="31.0" prefWidth="211.0" promptText="Описание" />
+                                        <TextField fx:id="AvailabilityUpdate" layoutX="186.0" layoutY="238.0" prefHeight="31.0" prefWidth="211.0" promptText="Доступность" />
+                                    </children>
+                                </AnchorPane>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab text="Удаление">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                            <children>
+                                <AnchorPane prefHeight="418.0" prefWidth="608.0" style="-fx-background-color: #880000;">
+                                    <children>
+                                        <Label layoutX="206.0" layoutY="14.0" prefHeight="52.0" prefWidth="201.0" text="Удаление" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="34.0" />
+                                            </font>
+                                        </Label>
+                                        <Button fx:id="DeleteButton" layoutX="206.0" layoutY="345.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="171.0" style="-fx-background-color: #669999;" text="Удалить" textFill="WHITE">
+                                            <font>
+                                                <Font name="Times New Roman" size="22.0" />
+                                            </font>
+                                        </Button>
+                                        <TextField fx:id="NameDelete" layoutX="186.0" layoutY="91.0" prefHeight="31.0" prefWidth="211.0" promptText="Имя категории" />
+                                    </children>
+                                </AnchorPane>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+            </tabs>
+        </TabPane>
+    </children>
+</AnchorPane>
